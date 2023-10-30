@@ -5,8 +5,6 @@
   - 
 <h2>Certifications</h2>https://www.credly.com/earner/earned/badge/b2c36b12-7bac-42e0-a12f-60301dc06911
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
